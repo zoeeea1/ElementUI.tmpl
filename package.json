@@ -40,7 +40,7 @@
         "url-loader": "^1.0.1",
         "vue-loader": "^15.2.2",
         "vue-template-compiler": "^2.5.16",
-        "webpack": "2.5.1",
+        "webpack": "5.94.0",
         "webpack-dev-server": "^2.5.0"
     }
 }
